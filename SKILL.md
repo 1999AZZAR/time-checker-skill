@@ -16,8 +16,8 @@ Use the provided Python script to fetch real-time data for any city or country.
 Run the script with the location name (hyphenated or with underscores if needed, though the script handles spaces):
 
 ```bash
-python3 /home/ubuntu/.openclaw/workspace/skills/time-checker/scripts/check_time.py "Jakarta"
-python3 /home/ubuntu/.openclaw/workspace/skills/time-checker/scripts/check_time.py "New York"
+python3 scripts/check_time.py "Jakarta"
+python3 scripts/check_time.py "New York"
 ```
 
 ## Best Practices
